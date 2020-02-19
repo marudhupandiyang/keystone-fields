@@ -33,7 +33,7 @@ export default class TextField extends Component {
           <Input
             autoComplete="off"
             autoFocus={autoFocus}
-            type="text"
+            type="number"
             value={this.valueToString(value)}
             onChange={this.onChange}
             id={htmlID}
