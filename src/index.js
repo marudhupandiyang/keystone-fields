@@ -20,3 +20,9 @@ export { default as Unsplash } from './types/Unsplash';
 export { default as Url } from './types/Url';
 export { default as Uuid } from './types/Uuid';
 export { default as Virtual } from './types/Virtual';
+
+export { default as DateTimeUtc } from './types/datetime-utc';
+export { default as AutoIncrement } from './types/auto-increment';
+export { default as MongoId } from './types/mongoid';
+export { default as Markdown } from './types/markdown';
+export { default as TinyMCE } from './types/tinymce';
