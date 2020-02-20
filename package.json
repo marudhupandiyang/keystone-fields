@@ -4,7 +4,7 @@
   "homepage": "https://github.com/marudhupandiyang/keystone-fields",
   "repository": "https://github.com/marudhupandiyang/keystone-fields",
   "version": "0.0.1",
-  "main": "./src/index.js",
+  "main": "./dist/fields.cjs.js",
   "module": "./src/index.js",
   "author": "Marudhu Pandiyan G",
   "license": "MIT",
